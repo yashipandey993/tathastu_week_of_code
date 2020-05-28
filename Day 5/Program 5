@@ -1,4 +1,4 @@
-	def sortEvenOdd(List):
+def sortEvenOdd(List):
 
     odd = []
 
