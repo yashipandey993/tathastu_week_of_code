@@ -39,6 +39,4 @@ def minimumNumberOfDeletions( str):
 if __name__ == "__main__": 
  str = input('Enter string')
 
-    print( "Minimum number of deletions = "
-
-         , minimumNumberOfDeletions(str)) 
+    print( "Minimum number of deletions = ", minimumNumberOfDeletions(str)) 
